@@ -12,4 +12,6 @@ This repository has two objectives:
     
     1.4. Intuitions.
     
+    1.5. Data prerequisites
+    
 2. provide documented arguments for the Cezanne-ai open-framework in terms of the chosen architecture and the step-by-step pipelines.
