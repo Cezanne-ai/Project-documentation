@@ -2,7 +2,7 @@
 
 This repository has two objectives:
 
-1. provide additional details for the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data"
+1. provide additional details for the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data" (See uploaded Cezanne.ai paper )
 
     1.1. Cezanne-ai project - step-by-step open-framework implementation.
     
